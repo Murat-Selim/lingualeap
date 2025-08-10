@@ -1,0 +1,6 @@
+{
+  "name": "LinguaLeap",
+  "description": "An application to help Azerbaijani speakers master English through AI-powered dialogues. Users can select conversation topics and difficulty levels to practice their skills.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
